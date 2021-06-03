@@ -32,7 +32,9 @@ Scientific baccalaureatDisciplina académicaBranch of technological sciences
 - Java
 - Spring boot
 - C++
-...
+- & a lot of more technologies! 
 
 ## 💬 Ask me about whatever!
-📫 How to reach me: vm.caverogracia@gmail.com
+📫 How to reach me: 
+- vm.caverogracia@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vcavero/)
