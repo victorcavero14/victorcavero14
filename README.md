@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
-🧑‍🎓 Computer science student at UCM (Universidad complutense de Madrid)
-🔭 I’m currently working on EVERIS
+- 🧑‍🎓 Computer science student at UCM (Universidad complutense de Madrid)
+- 🔭 I’m currently working on EVERIS
 
 
 ## Experience
