@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi everyone! 👋
 
-<!--
-**victorcavero14/victorcavero14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🎓 Computer science student at UCM (Universidad complutense de Madrid)
+🔭 I’m currently working on EVERIS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+### Everis
+Support and training in:
+Refinement of User Stories, both functionally and in the definition of acceptance criteria (functional tests).
+Development of functionalities. The technology is React in the Front layer and Spring Boot in Back on Microservices Architecture.
+JUnits development and automation.
+Execution of unit tests.
+
+## Education
+
+### Universidad Complutense de Madrid (UCM, SPAIN)
+Informatics EngineeringDisciplina académicaComputing itinerary
+- 2016 – 2022
+
+### Rīgas Tehniskā universitāte (Riga Technical University, LATVIA)
+Academic Master study programme “Computer Systems”Disciplina académicaFaculty of Computer Science and Information TechnologyNotaOne semester of Erasmus exchange
+- 2020 – 2021
+
+### Nuestra Señora del Buen Consejo, SPAIN.
+Scientific baccalaureatDisciplina académicaBranch of technological sciences
+- 2014 – 2016
+
+## Languages && Technologies
+- Git
+- Jenkins
+- Java
+- Spring boot
+- C++
+...
+
+## 💬 Ask me about whatever!
+📫 How to reach me: vm.caverogracia@gmail.com
