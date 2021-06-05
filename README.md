@@ -19,11 +19,11 @@ Informatics EngineeringDisciplina académicaComputing itinerary
 - 2016 – 2022
 
 ### Rīgas Tehniskā universitāte (Riga Technical University, LATVIA)
-Academic Master study programme “Computer Systems”Disciplina académicaFaculty of Computer Science and Information TechnologyNotaOne semester of Erasmus exchange
+Academic Master study programme “Computer Systems”, Faculty of Computer Science and Information Technology and One semester of Erasmus exchange
 - 2020 – 2021
 
 ### Nuestra Señora del Buen Consejo, SPAIN.
-Scientific baccalaureatDisciplina académicaBranch of technological sciences
+Scientific baccalaureat, ranch of technological sciences
 - 2014 – 2016
 
 ## Languages && Technologies
