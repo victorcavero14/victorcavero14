@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
 - 🧑‍🎓 Computer science student at UCM (Universidad complutense de Madrid)
-- 🔭 I’m currently working on EVERIS
+- 🔭 I’m currently working with EVERIS
 
 
 ## Experience
@@ -15,22 +15,22 @@ Execution of unit tests.
 ## Education
 
 ### Universidad Complutense de Madrid (UCM, SPAIN)
-Informatics EngineeringDisciplina académicaComputing itinerary
+Informatics Engineerin, Computing itinerary
 - 2016 – 2022
 
 ### Rīgas Tehniskā universitāte (Riga Technical University, LATVIA)
-Academic Master study programme “Computer Systems”, Faculty of Computer Science and Information Technology and One semester of Erasmus exchange
+Academic Master study programme “Computer Systems”, Faculty of Computer Science and Information Technology, One semester of Erasmus exchange
 - 2020 – 2021
 
 ### Nuestra Señora del Buen Consejo, SPAIN.
-Scientific baccalaureat, ranch of technological sciences
+Scientific baccalaureat, branch of technological sciences
 - 2014 – 2016
 
 ## Languages && Technologies
 - Git
 - Jenkins
 - Java
-- Spring boot
+- STS
 - C++
 - & a lot of more technologies! 
 
