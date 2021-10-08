@@ -15,7 +15,7 @@ Execution of unit tests.
 ## Education
 
 ### Universidad Complutense de Madrid (UCM, SPAIN)
-Informatics Engineerin, Computing itinerary
+Informatics Engineering, Computing itinerary
 - 2016 – 2022
 
 ### Rīgas Tehniskā universitāte (Riga Technical University, LATVIA)
