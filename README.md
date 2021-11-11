@@ -5,7 +5,7 @@
 
 
 ## Experience
-### Everis
+### NTT DATA
 Support and training in:
 Refinement of User Stories, both functionally and in the definition of acceptance criteria (functional tests).
 Development of functionalities. The technology is React in the Front layer and Spring Boot in Back on Microservices Architecture.
